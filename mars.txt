@@ -1,3 +1,4 @@
 Primer git, aprendiendo control de cambios
 segunda linea del procesador de texto 
 esta linea la modifique desde github x2
+Hola Mayra, esta linea la hice por tu invitación. :D
